@@ -1,2 +1,2 @@
-# fne.github.io
+#index.html
 Replicate part of the experiment done by Shoemaker, Breen and Stamper to test fear of social isolation via correlating Fear of Negative Evaluation (FNE) with discrepancy between personal opinion and majority opinion as well as with willingness to express their opinion In addition to this, also measured gender variations using FNE scale and social avoidance and distress (SAD) scale developed by Watson and Friend
