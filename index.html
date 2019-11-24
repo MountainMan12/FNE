@@ -419,7 +419,7 @@ curve(dnorm(x, mean=mean_age, sd=std_age), col=&quot;darkblue&quot;, lwd=2, add=
                    &#39;Subject 69&#39;,&#39;Subject 70&#39;,&#39;Subject 71&#39;,&#39;Subject 72&#39;)
 
 #Checking the distribution of each sample
-#Shapiro-wilk test to check the normality of variables
+#Shapiro-wilk test to check the normality of samples
 mat_wo_index &lt;- mat[-c(10,17),]
 lshap &lt;- lapply(data.frame(mat_wo_index), shapiro.test)
 lres &lt;- t(data.frame(sapply(lshap, `[`, c(&quot;p.value&quot;))))
