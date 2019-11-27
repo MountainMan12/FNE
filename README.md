@@ -6,4 +6,4 @@ Replicate part of the experiment done by Shoemaker, Breen and Stamper to test fe
 
 # LICENSE
 
-This project is licensed under the MIT license. See [License.md] for more details
+This project is licensed under the MIT license. See [LICENSE.md] for more details
